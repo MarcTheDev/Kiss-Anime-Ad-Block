@@ -10,13 +10,13 @@
 127.0.0.1    myfastcdn.com
 127.0.0.1     my.rtmark.net
 127.0.0.1     native.propellerclick.com
-127.0.0.1 *.trafficsan.com
-127.0.0.1 *.bidgear.com
-127.0.0.1 *.toomics.com
-127.0.0.1 *.runative-syndicate.com
 127.0.0.1   trafficsan.com
 127.0.0.1   bidgear.com
+127.0.0.1   demand.bidgear.com
 127.0.0.1   toomics.com
 127.0.0.1   runative-syndicate.com
 127.0.0.1   baobads.com
 127.0.0.1   manga.game
+127.0.0.1   www.c.bebi.com
+127.0.0.1   www.bebi.com
+127.0.0.1   www.cdn.runative-syndicate.com
